@@ -4,9 +4,18 @@
   "description": "- Ryan You",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"",
+    "start": "index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjcskk/COMP3104.git"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Ryan You",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjcskk/COMP3104/issues"
+  },
+  "homepage": "https://github.com/rjcskk/COMP3104.git#readme"
 }
